@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.exe
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.deps.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.genruntimeconfig.cache

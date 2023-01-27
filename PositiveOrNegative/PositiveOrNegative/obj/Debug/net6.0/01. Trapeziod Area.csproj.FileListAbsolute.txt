@@ -1,0 +1,15 @@
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\PositiveOrNegative\bin\Debug\net6.0\01. Trapeziod Area.exe
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\PositiveOrNegative\bin\Debug\net6.0\01. Trapeziod Area.deps.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\PositiveOrNegative\bin\Debug\net6.0\01. Trapeziod Area.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\PositiveOrNegative\bin\Debug\net6.0\01. Trapeziod Area.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\PositiveOrNegative\bin\Debug\net6.0\01. Trapeziod Area.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\PositiveOrNegative\obj\Debug\net6.0\01. Trapeziod Area.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\PositiveOrNegative\obj\Debug\net6.0\01. Trapeziod Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\PositiveOrNegative\obj\Debug\net6.0\01. Trapeziod Area.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\PositiveOrNegative\obj\Debug\net6.0\01. Trapeziod Area.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\PositiveOrNegative\obj\Debug\net6.0\01. Trapeziod Area.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\PositiveOrNegative\obj\Debug\net6.0\01. Trapeziod Area.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\PositiveOrNegative\obj\Debug\net6.0\refint\01. Trapeziod Area.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\PositiveOrNegative\obj\Debug\net6.0\01. Trapeziod Area.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\PositiveOrNegative\obj\Debug\net6.0\01. Trapeziod Area.genruntimeconfig.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\PositiveOrNegative\obj\Debug\net6.0\ref\01. Trapeziod Area.dll

@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.exe
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.deps.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\05. Training Lab\bin\Debug\netcoreapp3.1\05. Training Lab.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\05. Training Lab\obj\Debug\netcoreapp3.1\05. Training Lab.genruntimeconfig.cache

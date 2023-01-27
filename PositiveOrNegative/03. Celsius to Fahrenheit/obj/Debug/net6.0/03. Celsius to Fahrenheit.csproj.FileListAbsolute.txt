@@ -1,0 +1,15 @@
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\03. Celsius to Fahrenheit\bin\Debug\net6.0\03. Celsius to Fahrenheit.exe
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\03. Celsius to Fahrenheit\bin\Debug\net6.0\03. Celsius to Fahrenheit.deps.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\03. Celsius to Fahrenheit\bin\Debug\net6.0\03. Celsius to Fahrenheit.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\03. Celsius to Fahrenheit\bin\Debug\net6.0\03. Celsius to Fahrenheit.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\03. Celsius to Fahrenheit\bin\Debug\net6.0\03. Celsius to Fahrenheit.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\03. Celsius to Fahrenheit\obj\Debug\net6.0\03. Celsius to Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\03. Celsius to Fahrenheit\obj\Debug\net6.0\03. Celsius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\03. Celsius to Fahrenheit\obj\Debug\net6.0\03. Celsius to Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\03. Celsius to Fahrenheit\obj\Debug\net6.0\03. Celsius to Fahrenheit.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\03. Celsius to Fahrenheit\obj\Debug\net6.0\03. Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\03. Celsius to Fahrenheit\obj\Debug\net6.0\03. Celsius to Fahrenheit.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\03. Celsius to Fahrenheit\obj\Debug\net6.0\refint\03. Celsius to Fahrenheit.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\03. Celsius to Fahrenheit\obj\Debug\net6.0\03. Celsius to Fahrenheit.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\03. Celsius to Fahrenheit\obj\Debug\net6.0\03. Celsius to Fahrenheit.genruntimeconfig.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\03. Celsius to Fahrenheit\obj\Debug\net6.0\ref\03. Celsius to Fahrenheit.dll

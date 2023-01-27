@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.exe
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.deps.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.genruntimeconfig.cache

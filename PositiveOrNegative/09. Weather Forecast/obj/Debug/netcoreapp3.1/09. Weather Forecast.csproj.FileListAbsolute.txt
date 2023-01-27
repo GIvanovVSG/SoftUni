@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\09. Weather Forecast\bin\Debug\netcoreapp3.1\09. Weather Forecast.exe
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\09. Weather Forecast\bin\Debug\netcoreapp3.1\09. Weather Forecast.deps.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\09. Weather Forecast\bin\Debug\netcoreapp3.1\09. Weather Forecast.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\09. Weather Forecast\bin\Debug\netcoreapp3.1\09. Weather Forecast.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\09. Weather Forecast\bin\Debug\netcoreapp3.1\09. Weather Forecast.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\09. Weather Forecast\bin\Debug\netcoreapp3.1\09. Weather Forecast.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\09. Weather Forecast\obj\Debug\netcoreapp3.1\09. Weather Forecast.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\09. Weather Forecast\obj\Debug\netcoreapp3.1\09. Weather Forecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\09. Weather Forecast\obj\Debug\netcoreapp3.1\09. Weather Forecast.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\09. Weather Forecast\obj\Debug\netcoreapp3.1\09. Weather Forecast.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\09. Weather Forecast\obj\Debug\netcoreapp3.1\09. Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\09. Weather Forecast\obj\Debug\netcoreapp3.1\09. Weather Forecast.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\09. Weather Forecast\obj\Debug\netcoreapp3.1\09. Weather Forecast.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\09. Weather Forecast\obj\Debug\netcoreapp3.1\09. Weather Forecast.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\02. Triangle Area\bin\Debug\net6.0\02. Triangle Area.exe
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\02. Triangle Area\bin\Debug\net6.0\02. Triangle Area.deps.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\02. Triangle Area\bin\Debug\net6.0\02. Triangle Area.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\02. Triangle Area\bin\Debug\net6.0\02. Triangle Area.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\02. Triangle Area\bin\Debug\net6.0\02. Triangle Area.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\02. Triangle Area\obj\Debug\net6.0\refint\02. Triangle Area.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.genruntimeconfig.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\02. Triangle Area\obj\Debug\net6.0\ref\02. Triangle Area.dll

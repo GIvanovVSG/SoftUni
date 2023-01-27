@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.exe
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.deps.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.dll
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.pdb
+C:\Users\GIvanov\Desktop\C#\PositiveOrNegative\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.genruntimeconfig.cache
