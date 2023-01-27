@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\bin\Debug\netcoreapp3.1\08. Point on Rectangle Border.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\08. Point on Rectangle Border\obj\Debug\netcoreapp3.1\08. Point on Rectangle Border.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.exe
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.deps.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.dll
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.pdb
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.dll
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.pdb
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.genruntimeconfig.cache

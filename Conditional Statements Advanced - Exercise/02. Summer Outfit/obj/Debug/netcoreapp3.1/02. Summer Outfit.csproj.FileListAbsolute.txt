@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\netcoreapp3.1\02. Summer Outfit.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\netcoreapp3.1\02. Summer Outfit.genruntimeconfig.cache

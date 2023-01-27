@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\05. Godzilla vs. Kong.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\05. Godzilla vs. Kong.genruntimeconfig.cache

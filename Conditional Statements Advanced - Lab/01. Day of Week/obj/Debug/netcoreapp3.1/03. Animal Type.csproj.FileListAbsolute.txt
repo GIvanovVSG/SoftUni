@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\03. Animal Type.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\03. Animal Type.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\03. Animal Type.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\03. Animal Type.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\03. Animal Type.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\03. Animal Type.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\03. Animal Type.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\03. Animal Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\03. Animal Type.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\03. Animal Type.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\03. Animal Type.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\03. Animal Type.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\03. Animal Type.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\03. Animal Type.genruntimeconfig.cache

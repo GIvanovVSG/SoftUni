@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\03. Numbers 1.N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1.N with Step 3.exe
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\03. Numbers 1.N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1.N with Step 3.deps.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\03. Numbers 1.N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1.N with Step 3.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\03. Numbers 1.N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1.N with Step 3.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\03. Numbers 1.N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1.N with Step 3.dll
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\03. Numbers 1.N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1.N with Step 3.pdb
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1.N with Step 3.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1.N with Step 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1.N with Step 3.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1.N with Step 3.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1.N with Step 3.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1.N with Step 3.dll
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1.N with Step 3.pdb
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\03. Numbers 1.N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1.N with Step 3.genruntimeconfig.cache

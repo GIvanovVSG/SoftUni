@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.genruntimeconfig.cache

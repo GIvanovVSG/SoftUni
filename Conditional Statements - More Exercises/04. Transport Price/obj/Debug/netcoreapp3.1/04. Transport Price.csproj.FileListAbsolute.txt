@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.genruntimeconfig.cache

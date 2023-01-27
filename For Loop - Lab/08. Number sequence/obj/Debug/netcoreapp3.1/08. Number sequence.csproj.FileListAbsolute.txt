@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.exe
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.deps.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.dll
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.pdb
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.dll
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.pdb
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.genruntimeconfig.cache

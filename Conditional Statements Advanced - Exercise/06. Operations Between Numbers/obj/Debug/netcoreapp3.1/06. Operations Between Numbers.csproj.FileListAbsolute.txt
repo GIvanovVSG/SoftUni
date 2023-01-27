@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\netcoreapp3.1\06. Operations Between Numbers.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\netcoreapp3.1\06. Operations Between Numbers.genruntimeconfig.cache

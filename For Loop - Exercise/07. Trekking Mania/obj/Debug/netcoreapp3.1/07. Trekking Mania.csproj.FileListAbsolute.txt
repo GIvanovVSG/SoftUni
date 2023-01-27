@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.exe
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.deps.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.dll
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.pdb
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.dll
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.pdb
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.genruntimeconfig.cache

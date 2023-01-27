@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp3.1\03. New House.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp3.1\03. New House.genruntimeconfig.cache

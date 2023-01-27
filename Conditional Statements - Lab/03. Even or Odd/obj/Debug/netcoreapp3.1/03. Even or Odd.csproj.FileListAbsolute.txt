@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\03. Even or Odd\bin\Debug\netcoreapp3.1\03. Even or Odd.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\03. Even or Odd\obj\Debug\netcoreapp3.1\03. Even or Odd.genruntimeconfig.cache

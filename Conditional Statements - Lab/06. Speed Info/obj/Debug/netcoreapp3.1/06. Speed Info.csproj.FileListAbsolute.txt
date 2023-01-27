@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\netcoreapp3.1\04. Fishing Boat.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\netcoreapp3.1\04. Fishing Boat.genruntimeconfig.cache

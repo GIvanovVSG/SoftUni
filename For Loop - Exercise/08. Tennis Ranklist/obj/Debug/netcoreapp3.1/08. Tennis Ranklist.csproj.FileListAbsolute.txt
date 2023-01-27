@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.exe
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.deps.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.dll
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\08. Tennis Ranklist\bin\Debug\netcoreapp3.1\08. Tennis Ranklist.pdb
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.dll
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.pdb
+C:\Users\GIvanov\Desktop\C#\For Loop - Exercise\08. Tennis Ranklist\obj\Debug\netcoreapp3.1\08. Tennis Ranklist.genruntimeconfig.cache

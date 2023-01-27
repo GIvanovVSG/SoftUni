@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\07. Area of Figures\bin\Debug\netcoreapp3.1\07. Area of Figures.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Lab\07. Area of Figures\obj\Debug\netcoreapp3.1\07. Area of Figures.genruntimeconfig.cache

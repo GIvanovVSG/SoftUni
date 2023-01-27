@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp3.1\02. Bonus Score.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp3.1\02. Bonus Score.genruntimeconfig.cache

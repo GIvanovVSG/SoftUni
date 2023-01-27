@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\netcoreapp3.1\08. Lunch Break.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\netcoreapp3.1\08. Lunch Break.genruntimeconfig.cache

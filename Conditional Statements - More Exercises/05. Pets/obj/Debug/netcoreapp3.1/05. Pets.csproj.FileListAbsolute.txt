@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.genruntimeconfig.cache

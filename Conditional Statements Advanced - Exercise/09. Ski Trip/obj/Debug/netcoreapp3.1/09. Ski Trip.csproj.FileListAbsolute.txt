@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\09. Ski Trip\bin\Debug\netcoreapp3.1\09. Ski Trip.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\09. Ski Trip\obj\Debug\netcoreapp3.1\09. Ski Trip.genruntimeconfig.cache

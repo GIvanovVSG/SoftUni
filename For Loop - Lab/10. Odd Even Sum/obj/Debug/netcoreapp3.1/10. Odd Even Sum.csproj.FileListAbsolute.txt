@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.exe
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.deps.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.dll
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.pdb
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.dll
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.pdb
+C:\Users\GIvanov\Desktop\C#\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.genruntimeconfig.cache

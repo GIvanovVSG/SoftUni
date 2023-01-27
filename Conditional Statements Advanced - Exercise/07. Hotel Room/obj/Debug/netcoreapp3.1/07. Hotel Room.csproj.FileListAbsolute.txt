@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\07. Hotel Room\bin\Debug\netcoreapp3.1\07. Hotel Room.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - Exercise\07. Hotel Room\obj\Debug\netcoreapp3.1\07. Hotel Room.genruntimeconfig.cache

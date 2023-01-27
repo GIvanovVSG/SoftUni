@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\01. Pipes In Pool\bin\Debug\netcoreapp3.1\01. Pipes In Pool.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements - More Exercises\01. Pipes In Pool\obj\Debug\netcoreapp3.1\01. Pipes In Pool.genruntimeconfig.cache

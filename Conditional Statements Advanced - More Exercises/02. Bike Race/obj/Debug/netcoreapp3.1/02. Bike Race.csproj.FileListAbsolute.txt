@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.exe
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.deps.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.runtimeconfig.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.runtimeconfig.dev.json
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\netcoreapp3.1\02. Bike Race.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.AssemblyInfo.cs
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.dll
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.pdb
+C:\Users\GIvanov\Desktop\C#\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\netcoreapp3.1\02. Bike Race.genruntimeconfig.cache
