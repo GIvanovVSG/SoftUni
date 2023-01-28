@@ -6,7 +6,7 @@ namespace _03._Stream_Of_Letters
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
