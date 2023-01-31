@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\bin\Debug\netcoreapp3.1\04. Numbers Divided by 3 Without Reminder.exe
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\bin\Debug\netcoreapp3.1\04. Numbers Divided by 3 Without Reminder.deps.json
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\bin\Debug\netcoreapp3.1\04. Numbers Divided by 3 Without Reminder.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\bin\Debug\netcoreapp3.1\04. Numbers Divided by 3 Without Reminder.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\bin\Debug\netcoreapp3.1\04. Numbers Divided by 3 Without Reminder.dll
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\bin\Debug\netcoreapp3.1\04. Numbers Divided by 3 Without Reminder.pdb
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\04. Numbers Divided by 3 Without Reminder.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\04. Numbers Divided by 3 Without Reminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\04. Numbers Divided by 3 Without Reminder.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\04. Numbers Divided by 3 Without Reminder.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\04. Numbers Divided by 3 Without Reminder.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\04. Numbers Divided by 3 Without Reminder.dll
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\04. Numbers Divided by 3 Without Reminder.pdb
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\04. Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\04. Numbers Divided by 3 Without Reminder.genruntimeconfig.cache

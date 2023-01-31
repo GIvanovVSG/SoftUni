@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.exe
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.deps.json
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.dll
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\03. Stream Of Letters\bin\Debug\netcoreapp3.1\03. Stream Of Letters.pdb
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.dll
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.pdb
+C:\Users\GIvanov\Documents\SoftUni\While-Loop - More Exercises\03. Stream Of Letters\obj\Debug\netcoreapp3.1\03. Stream Of Letters.genruntimeconfig.cache
