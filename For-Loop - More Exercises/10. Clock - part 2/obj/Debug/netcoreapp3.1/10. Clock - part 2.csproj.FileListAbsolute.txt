@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\10. Clock - part 2\bin\Debug\netcoreapp3.1\10. Clock - part 2.exe
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\10. Clock - part 2\bin\Debug\netcoreapp3.1\10. Clock - part 2.deps.json
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\10. Clock - part 2\bin\Debug\netcoreapp3.1\10. Clock - part 2.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\10. Clock - part 2\bin\Debug\netcoreapp3.1\10. Clock - part 2.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\10. Clock - part 2\bin\Debug\netcoreapp3.1\10. Clock - part 2.dll
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\10. Clock - part 2\bin\Debug\netcoreapp3.1\10. Clock - part 2.pdb
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\10. Clock - part 2\obj\Debug\netcoreapp3.1\10. Clock - part 2.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\10. Clock - part 2\obj\Debug\netcoreapp3.1\10. Clock - part 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\10. Clock - part 2\obj\Debug\netcoreapp3.1\10. Clock - part 2.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\10. Clock - part 2\obj\Debug\netcoreapp3.1\10. Clock - part 2.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\10. Clock - part 2\obj\Debug\netcoreapp3.1\10. Clock - part 2.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\10. Clock - part 2\obj\Debug\netcoreapp3.1\10. Clock - part 2.dll
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\10. Clock - part 2\obj\Debug\netcoreapp3.1\10. Clock - part 2.pdb
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\10. Clock - part 2\obj\Debug\netcoreapp3.1\10. Clock - part 2.genruntimeconfig.cache

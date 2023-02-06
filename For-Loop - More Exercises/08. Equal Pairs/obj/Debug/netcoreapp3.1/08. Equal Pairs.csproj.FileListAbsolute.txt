@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.exe
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.deps.json
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.dll
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\08. Equal Pairs\bin\Debug\netcoreapp3.1\08. Equal Pairs.pdb
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.dll
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.pdb
+C:\Users\GIvanov\Documents\SoftUni\For-Loop - More Exercises\08. Equal Pairs\obj\Debug\netcoreapp3.1\08. Equal Pairs.genruntimeconfig.cache
