@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.exe
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.deps.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.dll
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\bin\Debug\netcoreapp3.1\03. Sum Prime Non Prime.pdb
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.dll
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.pdb
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\03. Sum Prime Non Prime\obj\Debug\netcoreapp3.1\03. Sum Prime Non Prime.genruntimeconfig.cache

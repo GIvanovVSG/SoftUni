@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.exe
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.deps.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.dll
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.pdb
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.dll
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.pdb
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.genruntimeconfig.cache
