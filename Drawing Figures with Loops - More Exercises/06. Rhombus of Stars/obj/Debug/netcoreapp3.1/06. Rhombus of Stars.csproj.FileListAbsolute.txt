@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\bin\Debug\netcoreapp3.1\06. Rhombus of Stars.exe
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\bin\Debug\netcoreapp3.1\06. Rhombus of Stars.deps.json
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\bin\Debug\netcoreapp3.1\06. Rhombus of Stars.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\bin\Debug\netcoreapp3.1\06. Rhombus of Stars.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\bin\Debug\netcoreapp3.1\06. Rhombus of Stars.dll
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\bin\Debug\netcoreapp3.1\06. Rhombus of Stars.pdb
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\netcoreapp3.1\06. Rhombus of Stars.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\netcoreapp3.1\06. Rhombus of Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\netcoreapp3.1\06. Rhombus of Stars.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\netcoreapp3.1\06. Rhombus of Stars.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\netcoreapp3.1\06. Rhombus of Stars.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\netcoreapp3.1\06. Rhombus of Stars.dll
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\netcoreapp3.1\06. Rhombus of Stars.pdb
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\06. Rhombus of Stars\obj\Debug\netcoreapp3.1\06. Rhombus of Stars.genruntimeconfig.cache

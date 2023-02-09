@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GIvanov\\Documents\\SoftUni\\Nested Loops - Lab\\teest\\teest.csproj",
+      "projectUniqueName": "C:\\Users\\GIvanov\\Documents\\SoftUni\\Nested Loops - Lab\\03. Combinations\\03. Combinations.csproj",
       "projectName": "teest",
-      "projectPath": "C:\\Users\\GIvanov\\Documents\\SoftUni\\Nested Loops - Lab\\teest\\teest.csproj",
+      "projectPath": "C:\\Users\\GIvanov\\Documents\\SoftUni\\Nested Loops - Lab\\03. Combinations\\03. Combinations.csproj",
       "packagesPath": "C:\\Users\\GIvanov\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\GIvanov\\Documents\\SoftUni\\Nested Loops - Lab\\teest\\obj\\",
       "projectStyle": "PackageReference",

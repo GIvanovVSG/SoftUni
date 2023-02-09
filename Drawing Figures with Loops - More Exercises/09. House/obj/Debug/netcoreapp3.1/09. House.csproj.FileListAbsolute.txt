@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\09. House\bin\Debug\netcoreapp3.1\09. House.exe
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\09. House\bin\Debug\netcoreapp3.1\09. House.deps.json
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\09. House\bin\Debug\netcoreapp3.1\09. House.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\09. House\bin\Debug\netcoreapp3.1\09. House.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\09. House\bin\Debug\netcoreapp3.1\09. House.dll
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\09. House\bin\Debug\netcoreapp3.1\09. House.pdb
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\09. House\obj\Debug\netcoreapp3.1\09. House.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\09. House\obj\Debug\netcoreapp3.1\09. House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\09. House\obj\Debug\netcoreapp3.1\09. House.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\09. House\obj\Debug\netcoreapp3.1\09. House.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\09. House\obj\Debug\netcoreapp3.1\09. House.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\09. House\obj\Debug\netcoreapp3.1\09. House.dll
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\09. House\obj\Debug\netcoreapp3.1\09. House.pdb
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\09. House\obj\Debug\netcoreapp3.1\09. House.genruntimeconfig.cache

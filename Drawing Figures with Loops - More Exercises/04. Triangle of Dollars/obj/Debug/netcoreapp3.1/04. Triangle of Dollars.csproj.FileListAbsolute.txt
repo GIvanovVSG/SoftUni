@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\bin\Debug\netcoreapp3.1\04. Triangle of Dollars.exe
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\bin\Debug\netcoreapp3.1\04. Triangle of Dollars.deps.json
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\bin\Debug\netcoreapp3.1\04. Triangle of Dollars.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\bin\Debug\netcoreapp3.1\04. Triangle of Dollars.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\bin\Debug\netcoreapp3.1\04. Triangle of Dollars.dll
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\bin\Debug\netcoreapp3.1\04. Triangle of Dollars.pdb
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\netcoreapp3.1\04. Triangle of Dollars.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\netcoreapp3.1\04. Triangle of Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\netcoreapp3.1\04. Triangle of Dollars.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\netcoreapp3.1\04. Triangle of Dollars.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\netcoreapp3.1\04. Triangle of Dollars.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\netcoreapp3.1\04. Triangle of Dollars.dll
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\netcoreapp3.1\04. Triangle of Dollars.pdb
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\04. Triangle of Dollars\obj\Debug\netcoreapp3.1\04. Triangle of Dollars.genruntimeconfig.cache

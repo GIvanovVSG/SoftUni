@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\05. Square Frame\bin\Debug\netcoreapp3.1\05. Square Frame.exe
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\05. Square Frame\bin\Debug\netcoreapp3.1\05. Square Frame.deps.json
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\05. Square Frame\bin\Debug\netcoreapp3.1\05. Square Frame.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\05. Square Frame\bin\Debug\netcoreapp3.1\05. Square Frame.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\05. Square Frame\bin\Debug\netcoreapp3.1\05. Square Frame.dll
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\05. Square Frame\bin\Debug\netcoreapp3.1\05. Square Frame.pdb
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\05. Square Frame\obj\Debug\netcoreapp3.1\05. Square Frame.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\05. Square Frame\obj\Debug\netcoreapp3.1\05. Square Frame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\05. Square Frame\obj\Debug\netcoreapp3.1\05. Square Frame.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\05. Square Frame\obj\Debug\netcoreapp3.1\05. Square Frame.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\05. Square Frame\obj\Debug\netcoreapp3.1\05. Square Frame.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\05. Square Frame\obj\Debug\netcoreapp3.1\05. Square Frame.dll
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\05. Square Frame\obj\Debug\netcoreapp3.1\05. Square Frame.pdb
+C:\Users\GIvanov\Documents\SoftUni\Drawing Figures with Loops - More Exercises\05. Square Frame\obj\Debug\netcoreapp3.1\05. Square Frame.genruntimeconfig.cache
