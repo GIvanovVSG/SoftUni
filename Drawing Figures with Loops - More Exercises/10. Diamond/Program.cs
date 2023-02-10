@@ -16,7 +16,7 @@ namespace _10._Diamond
 
             if (n % 2 == 0)
             {
-                for (int cols = 1; cols <= (n / 2); cols++)
+                for (int cols = 1; cols <= n / 2; cols++)
                 {
                     if (cols == 1)
                     {
