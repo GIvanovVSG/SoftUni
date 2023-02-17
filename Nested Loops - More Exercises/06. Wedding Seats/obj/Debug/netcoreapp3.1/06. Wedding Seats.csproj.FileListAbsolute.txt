@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\06. Wedding Seats\bin\Debug\netcoreapp3.1\06. Wedding Seats.exe
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\06. Wedding Seats\bin\Debug\netcoreapp3.1\06. Wedding Seats.deps.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\06. Wedding Seats\bin\Debug\netcoreapp3.1\06. Wedding Seats.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\06. Wedding Seats\bin\Debug\netcoreapp3.1\06. Wedding Seats.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\06. Wedding Seats\bin\Debug\netcoreapp3.1\06. Wedding Seats.dll
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\06. Wedding Seats\bin\Debug\netcoreapp3.1\06. Wedding Seats.pdb
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.dll
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.pdb
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.genruntimeconfig.cache

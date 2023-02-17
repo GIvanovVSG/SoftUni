@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GIvanov\\Documents\\SoftUni\\Nested Loops - More Exercises\\05. Challenge the Wedding\\05. Challenge the Wedding.csproj",
+      "projectUniqueName": "C:\\Users\\GIvanov\\Documents\\SoftUni\\Nested Loops - More Exercises\\06. Wedding Seats\\06. Wedding Seats.csproj",
       "projectName": "06. Wedding Seats",
-      "projectPath": "C:\\Users\\GIvanov\\Documents\\SoftUni\\Nested Loops - More Exercises\\05. Challenge the Wedding\\05. Challenge the Wedding.csproj",
+      "projectPath": "C:\\Users\\GIvanov\\Documents\\SoftUni\\Nested Loops - More Exercises\\06. Wedding Seats\\06. Wedding Seats.csproj",
       "packagesPath": "C:\\Users\\GIvanov\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\GIvanov\\Documents\\SoftUni\\Nested Loops - More Exercises\\06. Wedding Seats\\obj\\",
       "projectStyle": "PackageReference",
