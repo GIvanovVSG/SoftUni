@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\04. Car Number\bin\Debug\netcoreapp3.1\04. Car Number.exe
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\04. Car Number\bin\Debug\netcoreapp3.1\04. Car Number.deps.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\04. Car Number\bin\Debug\netcoreapp3.1\04. Car Number.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\04. Car Number\bin\Debug\netcoreapp3.1\04. Car Number.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\04. Car Number\bin\Debug\netcoreapp3.1\04. Car Number.dll
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\04. Car Number\bin\Debug\netcoreapp3.1\04. Car Number.pdb
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.dll
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.pdb
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.genruntimeconfig.cache

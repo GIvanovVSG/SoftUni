@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\05. Challenge the Wedding\bin\Debug\netcoreapp3.1\05. Challenge the Wedding.exe
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\05. Challenge the Wedding\bin\Debug\netcoreapp3.1\05. Challenge the Wedding.deps.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\05. Challenge the Wedding\bin\Debug\netcoreapp3.1\05. Challenge the Wedding.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\05. Challenge the Wedding\bin\Debug\netcoreapp3.1\05. Challenge the Wedding.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\05. Challenge the Wedding\bin\Debug\netcoreapp3.1\05. Challenge the Wedding.dll
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\05. Challenge the Wedding\bin\Debug\netcoreapp3.1\05. Challenge the Wedding.pdb
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\netcoreapp3.1\05. Challenge the Wedding.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\netcoreapp3.1\05. Challenge the Wedding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\netcoreapp3.1\05. Challenge the Wedding.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\netcoreapp3.1\05. Challenge the Wedding.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\netcoreapp3.1\05. Challenge the Wedding.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\netcoreapp3.1\05. Challenge the Wedding.dll
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\netcoreapp3.1\05. Challenge the Wedding.pdb
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\05. Challenge the Wedding\obj\Debug\netcoreapp3.1\05. Challenge the Wedding.genruntimeconfig.cache
