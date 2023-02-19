@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.exe
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.deps.json
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.dll
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\05. Everest\bin\Debug\netcoreapp3.1\05. Everest.pdb
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.dll
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.pdb
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\05. Everest\obj\Debug\netcoreapp3.1\05. Everest.genruntimeconfig.cache

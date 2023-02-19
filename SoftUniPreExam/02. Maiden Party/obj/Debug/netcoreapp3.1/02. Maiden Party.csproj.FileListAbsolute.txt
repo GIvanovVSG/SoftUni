@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\02. Maiden Party\bin\Debug\netcoreapp3.1\02. Maiden Party.exe
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\02. Maiden Party\bin\Debug\netcoreapp3.1\02. Maiden Party.deps.json
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\02. Maiden Party\bin\Debug\netcoreapp3.1\02. Maiden Party.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\02. Maiden Party\bin\Debug\netcoreapp3.1\02. Maiden Party.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\02. Maiden Party\bin\Debug\netcoreapp3.1\02. Maiden Party.dll
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\02. Maiden Party\bin\Debug\netcoreapp3.1\02. Maiden Party.pdb
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.dll
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.pdb
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\02. Maiden Party\obj\Debug\netcoreapp3.1\02. Maiden Party.genruntimeconfig.cache

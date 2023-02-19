@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.exe
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.deps.json
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.dll
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\04. Workout\bin\Debug\netcoreapp3.1\04. Workout.pdb
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.dll
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.pdb
+C:\Users\GIvanov\Documents\SoftUni\SoftUniPreExam\04. Workout\obj\Debug\netcoreapp3.1\04. Workout.genruntimeconfig.cache
