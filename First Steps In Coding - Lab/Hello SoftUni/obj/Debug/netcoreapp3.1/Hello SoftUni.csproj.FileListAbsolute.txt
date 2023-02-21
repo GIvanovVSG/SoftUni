@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\netcoreapp3.1\Hello SoftUni.exe
+C:\Users\GIvanov\Documents\SoftUni\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\netcoreapp3.1\Hello SoftUni.deps.json
+C:\Users\GIvanov\Documents\SoftUni\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\netcoreapp3.1\Hello SoftUni.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\netcoreapp3.1\Hello SoftUni.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\netcoreapp3.1\Hello SoftUni.dll
+C:\Users\GIvanov\Documents\SoftUni\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\netcoreapp3.1\Hello SoftUni.pdb
+C:\Users\GIvanov\Documents\SoftUni\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\netcoreapp3.1\Hello SoftUni.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\netcoreapp3.1\Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\netcoreapp3.1\Hello SoftUni.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\netcoreapp3.1\Hello SoftUni.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\netcoreapp3.1\Hello SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\netcoreapp3.1\Hello SoftUni.dll
+C:\Users\GIvanov\Documents\SoftUni\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\netcoreapp3.1\Hello SoftUni.pdb
+C:\Users\GIvanov\Documents\SoftUni\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\netcoreapp3.1\Hello SoftUni.genruntimeconfig.cache
