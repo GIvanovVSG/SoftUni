@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\13. Prime Pairs\bin\Debug\netcoreapp3.1\13. Prime Pairs.exe
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\13. Prime Pairs\bin\Debug\netcoreapp3.1\13. Prime Pairs.deps.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\13. Prime Pairs\bin\Debug\netcoreapp3.1\13. Prime Pairs.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\13. Prime Pairs\bin\Debug\netcoreapp3.1\13. Prime Pairs.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\13. Prime Pairs\bin\Debug\netcoreapp3.1\13. Prime Pairs.dll
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\13. Prime Pairs\bin\Debug\netcoreapp3.1\13. Prime Pairs.pdb
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\13. Prime Pairs\obj\Debug\netcoreapp3.1\13. Prime Pairs.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\13. Prime Pairs\obj\Debug\netcoreapp3.1\13. Prime Pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\13. Prime Pairs\obj\Debug\netcoreapp3.1\13. Prime Pairs.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\13. Prime Pairs\obj\Debug\netcoreapp3.1\13. Prime Pairs.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\13. Prime Pairs\obj\Debug\netcoreapp3.1\13. Prime Pairs.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\13. Prime Pairs\obj\Debug\netcoreapp3.1\13. Prime Pairs.dll
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\13. Prime Pairs\obj\Debug\netcoreapp3.1\13. Prime Pairs.pdb
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\13. Prime Pairs\obj\Debug\netcoreapp3.1\13. Prime Pairs.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\11. HappyCat Parking\bin\Debug\netcoreapp3.1\11. HappyCat Parking.exe
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\11. HappyCat Parking\bin\Debug\netcoreapp3.1\11. HappyCat Parking.deps.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\11. HappyCat Parking\bin\Debug\netcoreapp3.1\11. HappyCat Parking.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\11. HappyCat Parking\bin\Debug\netcoreapp3.1\11. HappyCat Parking.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\11. HappyCat Parking\bin\Debug\netcoreapp3.1\11. HappyCat Parking.dll
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\11. HappyCat Parking\bin\Debug\netcoreapp3.1\11. HappyCat Parking.pdb
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.dll
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.pdb
+C:\Users\GIvanov\Documents\SoftUni\Nested Loops - More Exercises\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.genruntimeconfig.cache
