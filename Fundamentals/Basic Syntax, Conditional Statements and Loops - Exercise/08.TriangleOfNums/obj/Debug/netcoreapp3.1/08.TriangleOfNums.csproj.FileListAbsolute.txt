@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\bin\Debug\netcoreapp3.1\08.TriangleOfNums.exe
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\bin\Debug\netcoreapp3.1\08.TriangleOfNums.deps.json
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\bin\Debug\netcoreapp3.1\08.TriangleOfNums.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\bin\Debug\netcoreapp3.1\08.TriangleOfNums.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\bin\Debug\netcoreapp3.1\08.TriangleOfNums.dll
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\bin\Debug\netcoreapp3.1\08.TriangleOfNums.pdb
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\obj\Debug\netcoreapp3.1\08.TriangleOfNums.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\obj\Debug\netcoreapp3.1\08.TriangleOfNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\obj\Debug\netcoreapp3.1\08.TriangleOfNums.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\obj\Debug\netcoreapp3.1\08.TriangleOfNums.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\obj\Debug\netcoreapp3.1\08.TriangleOfNums.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\obj\Debug\netcoreapp3.1\08.TriangleOfNums.dll
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\obj\Debug\netcoreapp3.1\08.TriangleOfNums.pdb
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\08.TriangleOfNums\obj\Debug\netcoreapp3.1\08.TriangleOfNums.genruntimeconfig.cache

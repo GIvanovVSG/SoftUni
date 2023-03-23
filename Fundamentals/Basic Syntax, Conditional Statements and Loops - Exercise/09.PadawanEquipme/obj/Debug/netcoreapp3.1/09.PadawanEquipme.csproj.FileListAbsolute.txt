@@ -1,0 +1,14 @@
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09.PadawanEquipme\obj\Debug\netcoreapp3.1\09.PadawanEquipme.csproj.AssemblyReference.cache
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09.PadawanEquipme\obj\Debug\netcoreapp3.1\09.PadawanEquipme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09.PadawanEquipme\obj\Debug\netcoreapp3.1\09.PadawanEquipme.AssemblyInfoInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09.PadawanEquipme\obj\Debug\netcoreapp3.1\09.PadawanEquipme.AssemblyInfo.cs
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09.PadawanEquipme\obj\Debug\netcoreapp3.1\09.PadawanEquipme.csproj.CoreCompileInputs.cache
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09.PadawanEquipme\bin\Debug\netcoreapp3.1\09.PadawanEquipme.exe
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09.PadawanEquipme\bin\Debug\netcoreapp3.1\09.PadawanEquipme.deps.json
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09.PadawanEquipme\bin\Debug\netcoreapp3.1\09.PadawanEquipme.runtimeconfig.json
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09.PadawanEquipme\bin\Debug\netcoreapp3.1\09.PadawanEquipme.runtimeconfig.dev.json
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09.PadawanEquipme\bin\Debug\netcoreapp3.1\09.PadawanEquipme.dll
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09.PadawanEquipme\bin\Debug\netcoreapp3.1\09.PadawanEquipme.pdb
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09.PadawanEquipme\obj\Debug\netcoreapp3.1\09.PadawanEquipme.dll
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09.PadawanEquipme\obj\Debug\netcoreapp3.1\09.PadawanEquipme.pdb
+C:\Users\GIvanov\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\09.PadawanEquipme\obj\Debug\netcoreapp3.1\09.PadawanEquipme.genruntimeconfig.cache
